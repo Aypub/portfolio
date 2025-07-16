@@ -1,0 +1,91 @@
+{
+    "hero_titles": ["Full Stack Web Developer", "AYOUB AIT TAHAR"],
+   "hero_subtitle": "Welcome to my Portfolio",
+   "hero_description": "I'm a passionate web developer specializing in creating dynamic and responsive web applications. I focus on delivering efficient, scalable, and user-friendly solutions that solve real-world problems.",
+   "hero_contact": "Contact Me",
+   "hero_about": "About Me",
+ 
+   "services": {
+     "title": "My Services",
+     "list": [
+       {
+         "icon": "💻",
+         "title": "Frontend Development",
+         "desc": "React, Next.js, modern UI/UX, responsive design, animations."
+       },
+       {
+         "icon": "🗄️",
+         "title": "Backend Development",
+         "desc": "Node.js, Express, REST APIs, authentication, scalable logic."
+       },
+       {
+         "icon": "🔗",
+         "title": "API Integration",
+         "desc": "RESTful APIs, GraphQL, third-party services, webhooks."
+       },
+       {
+         "icon": "🛢️",
+         "title": "Database Design",
+         "desc": "MongoDB, PostgreSQL, MySQL, data modeling, performance."
+       }
+     ]
+   },
+ 
+   "navigation": {
+     "home": "Home",
+     "about": "About",
+     "services": "Services",
+     "projects": "Projects",
+     "contact": "Contact"
+   },
+   
+     "about_title": "About Me",
+     "about_description": "I am a passionate developer with experience in building dynamic and responsive websites. I specialize in Laravel and React.",
+     "about_location": "Location",
+     "about_experience": "Experience",
+     "about_specialty": "Specialty",
+     "about_cv": "Download My CV",
+     "about_city": "Laayoune, Morocco",
+     "about_skills": "React, Node.js, UI/UX",
+     
+        
+     "skills_title": "Skills",
+   
+     "projects_title": "My Projects",
+  "projects": {
+    "employee-engagement-portal": {
+      "title": "Employee Engagement Portal",
+      "description": "Laravel application to boost employee engagement."
+    },
+    "weather-app": {
+      "title": "Weather App",
+      "description": "Weather app with real-time data."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "Personal website showcasing my skills and projects."
+    }
+  },
+  "project": {
+    "not_found": "Project not found",
+    "back": "← Back to projects",
+    "view_github": "View on GitHub",
+    "live_demo": "Live Demo",
+    "more": "More projects"
+  },
+     
+   
+     "contact": {
+     "title": "Contact Me",
+     "name_placeholder": "Your Name",
+     "message_placeholder": "Your Message",
+     "send_button": "Send",
+     "thank_you": "Thanks, {{name}}! Your message has been sent."
+   },
+   
+   "footer": {
+     "rights": "All rights reserved."
+   }
+   }
+   
+ 

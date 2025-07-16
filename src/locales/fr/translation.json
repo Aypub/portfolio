@@ -1,0 +1,88 @@
+{
+  "hero_titles": ["Développeur Web Full Stack", "AYOUB AIT TAHAR"],
+"hero_subtitle": "Bienvenue sur mon portfolio",
+"hero_description": "Je suis un développeur passionné spécialisé dans la création d'applications web dynamiques et réactives. Je me concentre sur la livraison de solutions efficaces, évolutives et conviviales pour résoudre des problèmes réels.",
+"hero_contact": "Contactez-moi",
+"hero_about": "À propos de moi",
+
+"services": {
+  "title": "Mes Services",
+  "list": [
+    {
+      "icon": "💻",
+      "title": "Développement Frontend",
+      "desc": "React, Next.js, interfaces modernes, design réactif, animations."
+    },
+    {
+      "icon": "🗄️",
+      "title": "Développement Backend",
+      "desc": "Node.js, Express, API REST, authentification, logique scalable."
+    },
+    {
+      "icon": "🔗",
+      "title": "Intégration d’API",
+      "desc": "APIs RESTful, GraphQL, services tiers, webhooks."
+    },
+    {
+      "icon": "🛢️",
+      "title": "Conception de Base de Données",
+      "desc": "MongoDB, PostgreSQL, MySQL, modélisation des données, performance."
+    }
+  ]
+},
+
+"navigation": {
+  "home": "Accueil",
+  "about": "À propos",
+  "services": "Services",
+  "projects": "Projets",
+  "contact": "Contact"
+},
+  "about_title": "À propos de moi",
+  "about_description": "Je suis un développeur passionné avec une expérience dans la création de sites web dynamiques et réactifs. Je me spécialise en Laravel et React.",
+  "about_location": "Localisation",
+  "about_experience": "Expérience",
+  "about_specialty": "Spécialité",
+  "about_city": "Laâyoune, Maroc",
+  "about_skills": "React, Node.js, UI/UX",
+  "about_cv": "Télécharger mon CV",
+
+  "skills_title": "Compétences",
+
+  "projects_title": "Mes projets",
+  "projects": {
+    "employee-engagement-portal": {
+      "title": "Portail d'Engagement des Employés",
+      "description": "Application Laravel pour stimuler l'engagement des employés."
+    },
+    "weather-app": {
+      "title": "Application Météo",
+      "description": "Application météo avec données en temps réel."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "Site personnel présentant mes compétences et projets."
+    }
+  },
+  "project": {
+     "not_found": "Projet non trouvé",
+     "back": "← Retour aux projets",
+     "view_github": "Voir sur GitHub",
+     "live_demo": "Démo en ligne",
+     "more": "Autres projets"
+},
+
+ 
+
+  "contact": {
+    "title": "Contactez-moi",
+    "name_placeholder": "Votre nom",
+    "message_placeholder": "Votre message",
+    "send_button": "Envoyer",
+    "thank_you": "Merci, {{name}} ! Votre message a été envoyé."
+  },
+
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
