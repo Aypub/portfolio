@@ -337,6 +337,17 @@ const Header = () => {
             <MobileAnchorLink href="/services" onClick={() => setMenuOpen(false)}>{t('navigation.services')}</MobileAnchorLink>
             <MobileAnchorLink href="/projects" onClick={() => setMenuOpen(false)}>{t('navigation.projects')}</MobileAnchorLink>
             <MobileAnchorLink href="/contact" onClick={() => setMenuOpen(false)}>{t('navigation.contact')}</MobileAnchorLink>
+            <LanguageWrapper>
+  <FaGlobe style={{ color: '#F8FAFC', marginRight: '0.5rem' }} />
+  <LanguageSelect
+    onChange={(e) => i18n.changeLanguage(e.target.value)}
+    value={i18n.language}
+  >
+    <option value="en">EN</option>
+    <option value="fr">FR</option>
+    <option value="ar">AR</option>
+  </LanguageSelect>
+</LanguageWrapper>
           </MobileMenu>
         )}
       </AnimatePresence>
